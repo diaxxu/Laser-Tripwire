@@ -6,7 +6,7 @@ A spy-style laser security system built with an ESP32. When someone crosses the 
 
 - Laser beam + photoresistor detection
 - Telegram bot alerts
-- Minimal parts, maximum cool
+
 - Fast and clean response system
 
 ##  Hardware Required
